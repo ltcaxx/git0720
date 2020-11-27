@@ -7,5 +7,6 @@ public class test0720 {
         System.out.println("有趣");
         System.out.println("再来一");
         System.out.println("怎么说");
+        System.out.println("zz");
     }
 }
